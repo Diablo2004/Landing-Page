@@ -1,0 +1,155 @@
+body{
+    margin:0;
+}
+.header{
+    background-color: #1F2937;
+    color:white;
+    
+}
+.head{
+    display:flex;
+    margin-left:170px;
+    margin-right:170px;
+    padding:16px;
+    gap:16px;
+    align-items:center;
+    margin-bottom:64px;
+    position:sticky;
+
+}
+.margin{
+    margin-left:auto;
+}
+.links,.second{
+    font-size:18px;
+    color:#F9F8FA;
+    
+}
+.second{
+    margin-bottom:20px;
+}
+.logo{
+    font-size:24px;
+    color: #F9F8FA;
+    font-weight:bold;
+}
+.main{
+    display:flex;
+    margin-left:170px;
+
+    margin-right:170px;
+    margin-bottom:16px;
+    
+}
+.first{
+    font-size:48px;
+    color:#F9F8FA;
+    font-weight:bolder;
+    margin-bottom: 8px;
+}
+.float{
+    margin-left:80px;
+    width:1000px;
+    height:270px;
+    margin-bottom:100px;
+    margin-right:64px;
+
+    
+}
+button{
+    background-color: #3882F6;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius:8px;
+    color:#F9F8FA;
+    font-size:18px;
+    border:4px;
+}
+
+/*second part*/
+
+.random{
+    font-size:36px;
+    font-weight:bolder;
+    color:#1F2937;
+    text-align: center;
+    margin-bottom:16px;
+}
+.nope{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:52px;
+}
+.fist{
+    width:200px;
+    height:200px;
+    border-radius:20px;
+    border: 4px solid #3882F6;
+    margin-bottom:6px;
+}
+.info{
+    max-width:200px;
+}
+.text{
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+/*third part*/
+
+.thor{
+    background-color: #e5e7eb;
+}
+.statement{
+    font-size:36px;
+    font-style: italic;
+    color:#1F2937;
+    text-align:left;
+    padding-top:80px;
+    padding-left:256px;
+    padding-right:256px;
+}
+.author{
+    font-weight:bold;
+    text-align:right;
+    padding-right:256px;
+    padding-bottom:80px;
+}
+
+/*fourth part*/
+
+.last{
+    display:flex;
+    background-color: #3882F6;
+    margin-top:70px;
+    margin-bottom:70px;
+    margin-left:200px;
+    margin-right:200px;
+    border-radius:6px;
+    align-items: center;
+    justify-content: space-between;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:100px;
+    padding-right:100px;
+}
+.alpha{
+    color:white;
+    font-weight: bold;
+}
+.beta{
+    color:white;
+}
+.sign{
+    border: 2px solid white;
+}
+/*fifth-part*/
+.footer{
+    background-color: #1F2937;
+    padding:32px;
+    text-align:center;
+    color:white;
+}
